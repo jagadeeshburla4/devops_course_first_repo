@@ -1,0 +1,4 @@
+This is the message to test git commit --amend command
+git amend message 
+git push origin --delete <branch name>
+is the command to delete remote branch from local repo
