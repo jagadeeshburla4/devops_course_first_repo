@@ -1,0 +1,2 @@
+This is the message to test git commit --amend command
+git amend message 
